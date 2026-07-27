@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "slug": "test-resume-1785174235842",
+  "ownerId": null,
+  "productName": "Test Resume 1785174235842",
+  "whatsapp": null,
+  "style": "apple",
+  "createdAt": "2026-07-27T17:43:55.843Z",
+  "updatedAt": "2026-07-27T17:44:05.191Z",
+  "steps": {
+    "analyze": {
+      "status": "done",
+      "at": "2026-07-27T17:43:55.845Z",
+      "durationMs": 0
+    },
+    "logo": {
+      "status": "done",
+      "at": "2026-07-27T17:43:55.846Z",
+      "durationMs": 0
+    },
+    "exploded": {
+      "status": "done",
+      "at": "2026-07-27T17:43:55.846Z",
+      "durationMs": 0
+    },
+    "video": {
+      "status": "done",
+      "at": "2026-07-27T17:43:57.200Z",
+      "durationMs": 1353
+    },
+    "frames": {
+      "status": "done",
+      "at": "2026-07-27T17:44:05.120Z",
+      "durationMs": 7919
+    },
+    "palette": {
+      "status": "done",
+      "at": "2026-07-27T17:44:05.127Z",
+      "durationMs": 6
+    },
+    "build": {
+      "status": "done",
+      "at": "2026-07-27T17:44:05.163Z",
+      "durationMs": 35
+    },
+    "deploy": {
+      "status": "done",
+      "at": "2026-07-27T17:44:05.191Z",
+      "durationMs": 28
+    }
+  },
+  "analysis": null,
+  "palette": {
+    "accent": "#eaab74",
+    "bg": "#0a0a0f",
+    "text": "#f5f5f7",
+    "raw": {
+      "byFrequency": [
+        "#a95e2c",
+        "#c37742",
+        "#b96833",
+        "#be6e39",
+        "#94572e"
+      ],
+      "bySaturation": [
+        "#eaab74",
+        "#e1a46f",
+        "#dd9f6a",
+        "#8a4a22",
+        "#a95e2c"
+      ]
+    },
+    "contrastTextBg": 18.14
+  },
+  "deploy": null,
+  "github": null,
+  "costEstimateUsd": 0
+}
